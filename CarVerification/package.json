@@ -1,0 +1,9 @@
+{
+  "name": "com.inventis.fscCodeMaker",
+  "version": "1.0.0",
+  "displayName": "FSC Code Maker",
+  "description": "Make FSC Code and Prefabs",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  }
+}
